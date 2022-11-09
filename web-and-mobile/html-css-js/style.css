@@ -1,0 +1,17 @@
+p
+{
+    color: maroon;
+}
+
+.header-background
+{
+    background-color: rgb(226, 152, 54);
+    color: white;
+    text-decoration: underline;
+}
+
+#bigger-font
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+}
